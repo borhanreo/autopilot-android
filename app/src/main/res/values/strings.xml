@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AUTO PILOT B-14</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_helpscreen">Helpscreen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="pref_send_report">Send crash reports</string>
+    <string name="pref_send_report_summary">Helps to fix bugs</string>
+    <string name="pref_orientation_title">Set Orientation</string>
+    <string name="pref_orientation_summary">Set the orientation</string>
+    <string name="pref_uuid_title">Change UUID</string>
+    <string name="pref_uuid_summary">Use non-standard serial UUID</string>
+    <string name="pref_uuid_update">Update UUID</string>
+    <string name="pref_update_setting">Update Settings</string>
+    <string name="pref_text_buffer_title">Input Buffer Size (In Chars)</string>
+    <string name="pref_text_buffer_summary">Change the receive text buffer size</string>
+
+    <string name="show"> Show AUTO PILOT B-14(APB-14)List</string>
+    <string name="apb_14">Search APB-14</string>
+
+    <string name="tap_on_mic">Press to speak</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device does not support speech input</string>
+</resources>
